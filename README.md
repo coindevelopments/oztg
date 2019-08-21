@@ -227,6 +227,9 @@ sudo wget https://github.com/coindevelopments/oztg/raw/master/Linux/ozeetyd
 sudo wget https://github.com/coindevelopments/oztg/raw/master/Linux/ozeety-cli
 ```
 ```bash
+sudo wget https://github.com/coindevelopments/oztg/raw/master/Linux/ozeety-tx
+```
+```bash
 sudo chmod 777 *
 ```
 ```bash
