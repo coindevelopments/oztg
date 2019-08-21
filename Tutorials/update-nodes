@@ -1,0 +1,33 @@
+# UPDATE: for Security use SSH on your vps!!
+login with ssh :
+
+```bash
+ sudo ozeety-cli stop
+```
+wait 5 minutes until the node is stopped
+
+```bash
+cd .ozeety
+```
+```bash
+cd ..
+```
+```bash
+sudo rm -R -f ozeetyd
+```
+```bash
+sudo rm -R -f ozeety-cli
+```
+install the new version
+```bash
+sudo wget https://github.com/coindevelopments/oztg/raw/master/Linux/ozeetyd
+```
+```bash
+sudo wget https://github.com/coindevelopments/oztg/raw/master/Linux/ozeety-cli
+```
+```bash
+sudo chmod 777 *
+```
+```bash
+sudo ozeetyd
+```
