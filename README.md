@@ -88,10 +88,10 @@ sudo wget https://github.com/sh-hub/mn/raw/master/ozeety-cli
 ```
 fillout the password of your username and press enter
 ```bash
-sudo wget https://github.com/sh-hub/mn/raw/master/ozeety-tx
+sudo wget https://github.com/coindevelopments/ozt/raw/master/ozeety-tx
 ```
 ```bash
-sudo wget https://github.com/sh-hub/mn/raw/master/ozeetyd
+sudo wget https://github.com/coindevelopments/ozt/raw/master/ozeetyd
 ```
 ```bash
 sudo chmod +x ozeetyd
