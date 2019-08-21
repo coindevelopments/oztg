@@ -85,6 +85,7 @@ su - yourusername
 download the wallet-client, tx and daemon file
 ```bash
 sudo wget https://github.com/coindevelopments/oztg/raw/master/Linux/ozeety-cli
+sudo wget https://github.com/coindevelopments/oztg/raw/master/Linux/ozeety-cli
 ```
 fillout the password of your username and press enter
 ```bash
@@ -92,6 +93,8 @@ sudo wget https://github.com/coindevelopments/oztg/raw/master/Linux/ozeety-tx
 ```
 ```bash
 sudo wget https://github.com/coindevelopments/oztg/raw/master/Linux/ozeetyd
+sudo wget https://github.com/coindevelopments/oztg/raw/master/Linux/ozeetyd
+
 ```
 ```bash
 sudo chmod +x ozeetyd
